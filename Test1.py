@@ -18,6 +18,3 @@ def solution(X, A):
 
     return L.index(0)+1 if 0 in L else 0
 
-
-# print solution(5, [5, 5, 1, 7, 2, 3, 5])
-print
